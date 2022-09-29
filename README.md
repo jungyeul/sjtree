@@ -1,6 +1,6 @@
 # sjtree (The Sejong treebank) GitHub 
 
-jungyeul _@_ mail.ubc.ca 
+jungyeul_at_mail.ubc.ca 
 
 - a list of cleaned sentences (error sentences are discarded)
 - argument-predicate annotation 
