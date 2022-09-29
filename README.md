@@ -1,4 +1,4 @@
-# sjtree (The Sejong treebank) GitHub 
+# The Sejong treebank (sjtree) GitHub 
 
 jungyeul_at_mail.ubc.ca 
 
